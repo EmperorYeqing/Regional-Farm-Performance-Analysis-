@@ -1,0 +1,9 @@
+Region,Crop,Farm_Size_Ha,Yield_Kg,Revenue
+North,Maize,10,20000,5000000
+South,Rice,8,22000,6000000
+East,Cassava,12,25000,5500000
+West,Soybean,7,15000,3500000
+North,Rice,9,21000,5800000
+South,Maize,11,26000,6500000
+East,Soybean,8,18000,4200000
+West,Cassava,10,23000,5200000
